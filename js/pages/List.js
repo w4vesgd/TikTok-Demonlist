@@ -106,7 +106,10 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count. If you're a mobile player and therefore can't record clicks, you must use 
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count. If you're a mobile player and therefore can't record clicks, you must use the "Show Taps" setting
+                    </p>
+                    <p>
+                        
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
