@@ -4,9 +4,14 @@
     "author": "AshleyDiesAlone",
     "creators": ["AhmedGMD7"],
     "verifier": "Aitross",
-    "verification": "https://youtu.be/sDiXKARavck?si=QXPYaXnPon95CrLq",
+    "verification": "https://youtu.be/mqXxGlScfK4?si=cE4FrqAJN1pdPUBp",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "AhmedGMD7",
+            "link": "https://youtu.be/sDiXKARavck?si=QXPYaXnPon95CrLq",
+            "percent": 100
+        }
     ]
 }
