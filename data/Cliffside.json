@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "AhmedGMD7",
+            "link": "https://www.youtube.com/watch?v=lCWRrVAFXUg",
+            "percent": 100
+        }
     ]
 }
