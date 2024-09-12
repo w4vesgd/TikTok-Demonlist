@@ -109,7 +109,7 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count. If you're a mobile player and therefore can't record clicks, you must use the "Show Taps" setting
                     </p>
                     <p>
-                        
+                        Cheat indicator MUST be active. If you are playing on vanilla and therefore can't use cheat indicator you must also specify that in the 'Any additional notes?' part of the record submission form, otherwise you will be rejected. 
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
