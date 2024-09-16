@@ -8,5 +8,15 @@
     "percentToQualify": "54",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "JohnLikesDiamond",
+            "link": "https://youtu.be/vtv0rg8Qajw?si=WLjndupjVuhdDIhe",
+            "percent": 100
+        },
+        {
+            "user": "Nemzie",
+            "link": "https://youtu.be/js2IO57b81w?si=onQ2UrP15fcPGXo4",
+            "percent": 100
+        }
     ]
 }
