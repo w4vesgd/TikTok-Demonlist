@@ -20,19 +20,24 @@
         "link": "https://www.tiktok.com/@nhelvlover"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "Shotjunbruh",
         "link": "https://www.tiktok.com/@shotjunbruhfrfr"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "Kopre",
         "link": "https://www.tiktok.com/@zkopre"
     },
     {
         "role": "trial",
-        "name": "fp",
+        "name": "AhmedGMD7",
         "link": "https://www.tiktok.com/@fpfp_gd"
+    },
+    {
+        "role": "trial",
+        "name": "fp",
+        "link": "https://www.tiktok.com/@ahmedgmd7"
     },
     {
         "role": "dev",
