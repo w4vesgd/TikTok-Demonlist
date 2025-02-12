@@ -1,0 +1,32 @@
+{
+    "id": 103004456,
+    "name": "Prior Destination",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/yQwUiPktamU",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "fp",
+            "link": "https://youtu.be/1V8osnAAeEM",
+            "percent": 100
+        },
+         {
+            "user": "infinitenumber",
+            "link": "https://medal.tv/games/geometry-dash/clips/iJygDCfpESCyD3kTK/d1337gIVP4uw?invite=cr-MSxrbEUsNjMzNDM4MjMs",
+            "percent": 100
+        },
+        {
+             "user": "Nitwose",
+            "link": "https://youtu.be/NgR-8NwP4Eo",
+            "percent": 100
+        },
+        {
+            "user": "Shotjunbruh",
+            "link": "https://youtube.com/watch?v=sCrEDcawH0g&feature=shared",
+            "percent": 100
+        }
+    ]
+}
