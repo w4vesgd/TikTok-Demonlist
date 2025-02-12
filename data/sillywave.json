@@ -1,0 +1,22 @@
+{
+    "id": 105329982,
+    "name": "silly wave",
+    "author": "fpfp",
+    "creators": ["fp"],
+    "verifier": "sli",
+    "verification": "https://youtu.be/6L1aywF43b8",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jerpunen",
+            "link": "https://youtu.be/oApWCmbyAdo?si=0OlZj1dbpoQ1tTR5",
+            "percent": 100
+        },
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/klsK0r_I6yg",
+            "percent": 100
+        }
+    ]
+}
