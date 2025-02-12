@@ -1,0 +1,22 @@
+{
+    "id": 102985309,
+    "name": "5 seconds hell",
+    "author": "f8wq",
+    "creators": ["f8wq"],
+    "verifier": "f8wq",
+    "verification": "https://youtu.be/OCbFYQP0pkY",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/JVeORsHWxEE",
+            "percent": 100
+        },
+        {
+            "user": "Shotjunbruh",
+            "link": "https://youtu.be/9n7OIyDa4BI",
+            "percent": 100
+        }
+    ]
+}
