@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+        "user": "Gamingbyte",
+        "link": "https://youtu.be/v0C-qgRHDF4",
+        "percent": 100
+        }
     ]
 }
