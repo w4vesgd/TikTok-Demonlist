@@ -1,0 +1,22 @@
+{
+    "id": 97155310,
+    "name": "NORD NEVER CLEAR",
+    "author": "Shotjunbruh",
+    "creators": ["Shotjunbruh"],
+    "verifier": "Shotjunbruh",
+    "verification": "https://youtu.be/wB-FpFuGHB0?feature=shared",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      {
+          "user": "fp",
+          "link": "https://youtu.be/ZdLLK2z21-c",
+          "percent": 100
+      },
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/pMwkun4Cwds",
+            "percent": 100
+        }
+    ]
+}
