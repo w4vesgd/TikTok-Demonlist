@@ -1,0 +1,22 @@
+{
+    "id": 100755230,
+    "name": "Dual challenge 2",
+    "author": "Shotjunbruh",
+    "creators": ["Shotjunbruh"],
+    "verifier": "Shotjunbruh",
+    "verification": "https://youtu.be/zrUF34tQEGA?feature=shared",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "fp",
+            "link": "https://youtu.be/UT1ave579BQ",
+            "percent": 100
+        },
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/TIsx9cYoLt0",
+            "percent": 100
+        }
+    ]
+}
