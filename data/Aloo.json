@@ -1,0 +1,17 @@
+{
+    "id": 105338546,
+    "name": "Aloo",
+    "author": "BryceTheBest",
+    "creators": ["BryceTheBest"],
+    "verifier": "BryceTheBest",
+    "verification": "https://youtu.be/D5A12NTw1pI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Shotjunbruh",
+            "link": "https://youtu.be/rTWUEA0basM",
+            "percent": 100
+        }
+    ]
+}
