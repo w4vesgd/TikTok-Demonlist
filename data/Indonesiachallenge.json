@@ -1,0 +1,37 @@
+{
+    "id": 110323723,
+    "name": "Indonesia challenge",
+    "author": "Mamsaisconfused",
+    "creators": ["Mamsaisconfused"],
+    "verifier": "Mamzza",
+    "verification": "https://youtu.be/AspFrqrJHDg?si=yd-3pQqAqsh8Wmpt",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AhmedGMD7",
+            "link": "https://www.youtube.com/watch?v=MhaRNXntGTc",
+            "percent":100
+        },
+        {
+            "user": "Jerpunen",
+            "link": "https://youtu.be/ovPG-q7rPsI?si=UPxTalP_x8Fqvr3z",
+            "percent": 100
+        },
+        {
+            "user": "fp",
+            "link": "https://youtu.be/V15otRWffZ8",
+            "percent": 100
+        },
+        {
+            "user": "Shotjunbruh",
+            "link": "https://youtu.be/Qt_n67m0894?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/KPwtuGW4wSY",
+            "percent": 100
+        }
+    ]
+}
