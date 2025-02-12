@@ -1,0 +1,22 @@
+{
+    "id": 109087406,
+    "name": "lol funny level name",
+    "author": "Yiq",
+    "creators": ["Chedda"],
+    "verifier": "Chedda",
+    "verification": "https://www.youtube.com/watch?v=y0pce2SZ-gc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jerpunen",
+            "link": "https://drive.google.com/file/d/1FUEg0jAAegp2OxVvwokU6zHjhxL6TCYw/view?usp=sharing",
+            "percent": 100
+        },
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/ZA82sRL1TDw",
+            "percent": 100
+        }
+    ]
+}
